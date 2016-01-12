@@ -1,0 +1,17 @@
+a {font-size:16px; color:#0000FF}
+a:hover {font-size:16px; color: #ff4f84; font-weight:bold}
+
+a.active {font-size:16px; color: #c721be  }
+a.active:hover {font-size:16px; color: #ff4f84; font-weight:bold}
+
+table {border-collapse: collapse; border: 1px solid black}
+tr {background-color: white}
+tr:hover {background-color: yellow}
+
+tr.single {background-color: white}
+tr.header {background-color: silver}
+tr.active {background-color: #51f3e3}
+tr.selected {background-color: #8a7ef3  }
+
+td {padding: 5px; border: 1px solid black}
+th {padding: 5px; border: 1px solid black}
